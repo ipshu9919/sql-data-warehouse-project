@@ -44,3 +44,4 @@ Hi! I’m Ipshita, an MBA graduate specializing in Marketing and International B
 ---
 
 > 📚 This project was completed as part of my SQL learning journey, following the project guidance provided by Data With Baraa.
+---
