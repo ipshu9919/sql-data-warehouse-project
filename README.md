@@ -94,5 +94,5 @@ Hi! I’m Ipshita Vishwakarma , an MBA graduate specializing in Marketing and In
 
 ---
 
-> 📚 This project was completed as part of my SQL learning journey, following the project guidance provided by Data With Baraa.  >
+> 📚 This project was completed as part of my SQL learning journey, following the project guidance provided by Data With Baraa.  
 ---
